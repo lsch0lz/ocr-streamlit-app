@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF
+python-docx
+easyocr
+pillow
+numpy
